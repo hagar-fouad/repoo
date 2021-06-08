@@ -1,4 +1,6 @@
 # repoo
+my schema name employeedb
+
 add departments
 http://localhost:8080/api/departments
 [
